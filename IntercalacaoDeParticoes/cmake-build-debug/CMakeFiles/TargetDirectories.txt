@@ -1,3 +1,0 @@
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/CMakeFiles/ed2.dir
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
