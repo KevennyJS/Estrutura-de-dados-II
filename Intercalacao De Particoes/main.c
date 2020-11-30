@@ -375,6 +375,40 @@ int teste05(){
 }
 
 
+void teste06(){
+    printf("===========================================================\n");
+    printf("Teste 06 Intercalacao Arvore de Vencedores. duas particoes.\n");
+    printf("===========================================================\n");
+    ListaClientes *entrada, *saida;
+
+    nomes = cria_nomes(cria_str("p1.dat"), cria_nomes(cria_str("p2.dat"), NULL));
+
+    entrada = cria_clientes(2,
+                            cliente(1, "Joao"),
+                            cliente(5, "Maria"));
+    salva_clientes("p1.dat", entrada);
+    libera_clientes(entrada);
+
+    entrada = cria_clientes(4,
+                            cliente(3, "Marcos"),
+                            cliente(6, "Ana"),
+                            cliente(7, "Bia"),
+                            cliente(10, "Joaquim"));
+    salva_clientes("p2.dat", entrada);
+    libera_clientes(entrada);
+
+    intercalacao_arv_vencedores(NOME_ARQUIVO_SAIDA, 2, nomes);
+
+    saida = le_clientes(NOME_ARQUIVO_SAIDA);
+    libera_clientes(saida);
+
+    FILE* out = fopen(NOME_ARQUIVO_SAIDA,"rb");
+    TCliente* c;
+    while ((c = le_cliente(out)) != NULL)
+        imprime_cliente(c);
+    free(c);
+}
+
 int main(){
     //Teste 1 Intercalacao Basico. Arquivo p1.dat vazio deve criar saida.dat vazio.
     //teste01();
@@ -389,7 +423,9 @@ int main(){
     //teste04();
 
     //todo: OBS: QUANDO FOR RODAR O TESTE 5, COMENTAR TODOS OS TESTES ANTERIORES
-    teste05();
+    //teste05();
+
+    teste06();
 
     return 0;
 }

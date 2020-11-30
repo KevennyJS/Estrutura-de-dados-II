@@ -6,27 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cliente.c
-cliente.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cliente.h
-string.h
--
-stdlib.h
--
-stdarg.h
--
-
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cliente.h
+C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.h
 stdio.h
 -
 
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/intercalacao.c
+C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/intercalacao.c
 intercalacao.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/intercalacao.h
+C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/intercalacao.h
 nomes.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/nomes.h
+C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.h
 cliente.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cliente.h
+C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.h
 limits.h
 -
 string.h
@@ -34,49 +24,11 @@ string.h
 stdlib.h
 -
 
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/intercalacao.h
+C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/intercalacao.h
 nomes.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/nomes.h
+C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.h
 cliente.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cliente.h
+C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.h
 
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/lista_clientes.c
-stdlib.h
--
-stdarg.h
--
-lista_clientes.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/lista_clientes.h
-
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/lista_clientes.h
-cliente.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cliente.h
-
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/main.c
-string.h
--
-stdlib.h
--
-stdio.h
--
-cliente.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cliente.h
-lista_clientes.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/lista_clientes.h
-nomes.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/nomes.h
-intercalacao.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/intercalacao.h
-
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/nomes.c
-stdlib.h
--
-stdio.h
--
-string.h
--
-nomes.h
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/nomes.h
-
-C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/nomes.h
+C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.h
 

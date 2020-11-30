@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cliente.c" "C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/CMakeFiles/ed2.dir/cliente.c.obj"
-  "C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/intercalacao.c" "C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/CMakeFiles/ed2.dir/intercalacao.c.obj"
-  "C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/lista_clientes.c" "C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/CMakeFiles/ed2.dir/lista_clientes.c.obj"
-  "C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/main.c" "C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/CMakeFiles/ed2.dir/main.c.obj"
-  "C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/nomes.c" "C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/CMakeFiles/ed2.dir/nomes.c.obj"
+  "C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.c" "C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/CMakeFiles/ed2.dir/cliente.c.obj"
+  "C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/intercalacao.c" "C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/CMakeFiles/ed2.dir/intercalacao.c.obj"
+  "C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/lista_clientes.c" "C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/CMakeFiles/ed2.dir/lista_clientes.c.obj"
+  "C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/main.c" "C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/CMakeFiles/ed2.dir/main.c.obj"
+  "C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.c" "C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/CMakeFiles/ed2.dir/nomes.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -53,19 +53,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "D:\Programas do sistema\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "D:\Programas do sistema\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes
+CMAKE_SOURCE_DIR = "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cmake-build-debug
+CMAKE_BINARY_DIR = "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ed2.dir/depend.make
@@ -78,68 +78,68 @@ include CMakeFiles/ed2.dir/flags.make
 
 CMakeFiles/ed2.dir/main.c.obj: CMakeFiles/ed2.dir/flags.make
 CMakeFiles/ed2.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ed2.dir/main.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ed2.dir\main.c.obj   -c C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ed2.dir/main.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ed2.dir\main.c.obj   -c "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\main.c"
 
 CMakeFiles/ed2.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ed2.dir/main.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\main.c > CMakeFiles\ed2.dir\main.c.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\main.c" > CMakeFiles\ed2.dir\main.c.i
 
 CMakeFiles/ed2.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ed2.dir/main.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\main.c -o CMakeFiles\ed2.dir\main.c.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\main.c" -o CMakeFiles\ed2.dir\main.c.s
 
 CMakeFiles/ed2.dir/cliente.c.obj: CMakeFiles/ed2.dir/flags.make
 CMakeFiles/ed2.dir/cliente.c.obj: ../cliente.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ed2.dir/cliente.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ed2.dir\cliente.c.obj   -c C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cliente.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ed2.dir/cliente.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ed2.dir\cliente.c.obj   -c "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cliente.c"
 
 CMakeFiles/ed2.dir/cliente.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ed2.dir/cliente.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cliente.c > CMakeFiles\ed2.dir\cliente.c.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cliente.c" > CMakeFiles\ed2.dir\cliente.c.i
 
 CMakeFiles/ed2.dir/cliente.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ed2.dir/cliente.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cliente.c -o CMakeFiles\ed2.dir\cliente.c.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cliente.c" -o CMakeFiles\ed2.dir\cliente.c.s
 
 CMakeFiles/ed2.dir/intercalacao.c.obj: CMakeFiles/ed2.dir/flags.make
 CMakeFiles/ed2.dir/intercalacao.c.obj: ../intercalacao.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ed2.dir/intercalacao.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ed2.dir\intercalacao.c.obj   -c C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\intercalacao.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ed2.dir/intercalacao.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ed2.dir\intercalacao.c.obj   -c "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\intercalacao.c"
 
 CMakeFiles/ed2.dir/intercalacao.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ed2.dir/intercalacao.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\intercalacao.c > CMakeFiles\ed2.dir\intercalacao.c.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\intercalacao.c" > CMakeFiles\ed2.dir\intercalacao.c.i
 
 CMakeFiles/ed2.dir/intercalacao.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ed2.dir/intercalacao.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\intercalacao.c -o CMakeFiles\ed2.dir\intercalacao.c.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\intercalacao.c" -o CMakeFiles\ed2.dir\intercalacao.c.s
 
 CMakeFiles/ed2.dir/lista_clientes.c.obj: CMakeFiles/ed2.dir/flags.make
 CMakeFiles/ed2.dir/lista_clientes.c.obj: ../lista_clientes.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ed2.dir/lista_clientes.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ed2.dir\lista_clientes.c.obj   -c C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\lista_clientes.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ed2.dir/lista_clientes.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ed2.dir\lista_clientes.c.obj   -c "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\lista_clientes.c"
 
 CMakeFiles/ed2.dir/lista_clientes.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ed2.dir/lista_clientes.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\lista_clientes.c > CMakeFiles\ed2.dir\lista_clientes.c.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\lista_clientes.c" > CMakeFiles\ed2.dir\lista_clientes.c.i
 
 CMakeFiles/ed2.dir/lista_clientes.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ed2.dir/lista_clientes.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\lista_clientes.c -o CMakeFiles\ed2.dir\lista_clientes.c.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\lista_clientes.c" -o CMakeFiles\ed2.dir\lista_clientes.c.s
 
 CMakeFiles/ed2.dir/nomes.c.obj: CMakeFiles/ed2.dir/flags.make
 CMakeFiles/ed2.dir/nomes.c.obj: ../nomes.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/ed2.dir/nomes.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ed2.dir\nomes.c.obj   -c C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\nomes.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/ed2.dir/nomes.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ed2.dir\nomes.c.obj   -c "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\nomes.c"
 
 CMakeFiles/ed2.dir/nomes.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ed2.dir/nomes.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\nomes.c > CMakeFiles\ed2.dir\nomes.c.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\nomes.c" > CMakeFiles\ed2.dir\nomes.c.i
 
 CMakeFiles/ed2.dir/nomes.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ed2.dir/nomes.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\nomes.c -o CMakeFiles\ed2.dir\nomes.c.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\nomes.c" -o CMakeFiles\ed2.dir\nomes.c.s
 
 # Object files for target ed2
 ed2_OBJECTS = \
@@ -161,7 +161,7 @@ ed2.exe: CMakeFiles/ed2.dir/build.make
 ed2.exe: CMakeFiles/ed2.dir/linklibs.rsp
 ed2.exe: CMakeFiles/ed2.dir/objects1.rsp
 ed2.exe: CMakeFiles/ed2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable ed2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable ed2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ed2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -174,6 +174,6 @@ CMakeFiles/ed2.dir/clean:
 .PHONY : CMakeFiles/ed2.dir/clean
 
 CMakeFiles/ed2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cmake-build-debug C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cmake-build-debug C:\Users\Kevenny\Desktop\IntercalacaoDeParticoes\cmake-build-debug\CMakeFiles\ed2.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes" "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes" "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cmake-build-debug" "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cmake-build-debug" "C:\Users\Keveny\Desktop\Estrutura-de-dados-II\Intercalacao De Particoes\cmake-build-debug\CMakeFiles\ed2.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ed2.dir/depend
 

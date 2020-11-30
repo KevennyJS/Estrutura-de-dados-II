@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes
+# Install script for directory: C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

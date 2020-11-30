@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ed2">
-				<Option output="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/ed2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug"/>
+				<Option output="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/ed2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -29,15 +29,15 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ed2"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ed2"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ed2/fast">
-				<Option output="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/ed2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug"/>
+				<Option output="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/ed2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -47,61 +47,61 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ed2/fast"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 ed2/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cliente.c">
+		<Unit filename="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.c">
 			<Option target="ed2"/>
 		</Unit>
-		<Unit filename="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/cliente.h">
+		<Unit filename="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.h">
 			<Option target="ed2"/>
 		</Unit>
-		<Unit filename="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/intercalacao.c">
+		<Unit filename="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/intercalacao.c">
 			<Option target="ed2"/>
 		</Unit>
-		<Unit filename="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/intercalacao.h">
+		<Unit filename="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/intercalacao.h">
 			<Option target="ed2"/>
 		</Unit>
-		<Unit filename="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/lista_clientes.c">
+		<Unit filename="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/lista_clientes.c">
 			<Option target="ed2"/>
 		</Unit>
-		<Unit filename="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/lista_clientes.h">
+		<Unit filename="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/lista_clientes.h">
 			<Option target="ed2"/>
 		</Unit>
-		<Unit filename="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/main.c">
+		<Unit filename="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/main.c">
 			<Option target="ed2"/>
 		</Unit>
-		<Unit filename="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/nomes.c">
+		<Unit filename="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.c">
 			<Option target="ed2"/>
 		</Unit>
-		<Unit filename="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/nomes.h">
+		<Unit filename="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.h">
 			<Option target="ed2"/>
 		</Unit>
-		<Unit filename="C:/Users/Kevenny/Desktop/IntercalacaoDeParticoes/CMakeLists.txt">
+		<Unit filename="C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
