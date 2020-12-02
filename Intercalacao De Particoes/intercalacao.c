@@ -97,12 +97,13 @@ void intercalacao_basico(char *nome_arquivo_saida, int num_p, Nomes *nome_partic
     }
 }
 
+// não está completo
 void intercalacao_arv_vencedores(char *nome_arquivo_saida, int num_p, Nomes *nome_particoes) {
     FILE *out;
     int fim = 0; //variavel que controla fim do procedimento
     TNo arrayDeStruct[num_p];
     TNo flexArrayDeStruct[num_p]; // esse array é flexivel, nele a gente vai fazer as comparações de subida da arvore
-
+    int posicaoflexarray = 0;
     if ((out = fopen(nome_arquivo_saida, "wb")) == NULL) {
         printf("Erro ao abrir arquivo de sa?da\n");
     } else {
@@ -128,25 +129,20 @@ void intercalacao_arv_vencedores(char *nome_arquivo_saida, int num_p, Nomes *nom
             nome_particoes = nome_particoes->prox;
         }
 
-        // lê de dois em dois
-        for (int i = 0; i < num_p; i += 2) {
-            //todo: implementar aqui
-            if (arrayDeStruct[i].vencedor->cod_cliente > arrayDeStruct[++i].vencedor->cod_cliente) {
-                TNo *tempNo = (TNo *) malloc(sizeof(TNo));
-                if (tempNo->esq == NULL) {//todo adicionar no lado esquerdo
-                } else if (tempNo->dir == NULL) {//todo adicionar no lado direito
-                } else {
-                    //quer dizer que o no antigo já está cheio
-                    //todo guardar o atual na lista flex
-                    free(tempNo);
-                    //todo criar um novo no
-                    //todo adicionar no novo no
-                }
+
+        for(int i = 0; i < num_p; i += 2){
+            if(arrayDeStruct[i].vencedor->cod_cliente < arrayDeStruct[++i].vencedor->cod_cliente){
+                *flexArrayDeStruct[posicaoflexarray].esq = arrayDeStruct[i];
+                *flexArrayDeStruct[posicaoflexarray].dir = arrayDeStruct[i];
+                //*flexArrayDeStruct[posicaoflexarray].vencedor = arrayDeStruct[i];
+            }else{
+                *flexArrayDeStruct[posicaoflexarray].esq = arrayDeStruct[i];
+                //*flexArrayDeStruct[posicaoflexarray].dir = arrayDeStruct[++i];
+                //*flexArrayDeStruct[posicaoflexarray].vencedor = arrayDeStruct[++i].vencedor;
             }
         }
 
     }
-
 }
 
 void intercalacao_otima(char *nome_arquivo_saida, int num_p, Nomes *nome_particoes, int f) {

@@ -6,29 +6,35 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.h
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.h
 stdio.h
 -
 
-C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/intercalacao.c
-intercalacao.h
-C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/intercalacao.h
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/intercalacao.h
 nomes.h
-C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.h
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.h
 cliente.h
-C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.h
-limits.h
--
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.h
+
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/lista_clientes.h
+cliente.h
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.h
+
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/main.c
 string.h
 -
 stdlib.h
 -
-
-C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/intercalacao.h
-nomes.h
-C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.h
+stdio.h
+-
 cliente.h
-C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.h
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/cliente.h
+lista_clientes.h
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/lista_clientes.h
+nomes.h
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.h
+intercalacao.h
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/intercalacao.h
 
-C:/Users/Keveny/Desktop/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.h
+C:/Users/Kevenny/Desktop/UFS/Estrutura-de-dados-II/Intercalacao De Particoes/nomes.h
 

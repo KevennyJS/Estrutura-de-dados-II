@@ -411,21 +411,22 @@ void teste06(){
 
 int main(){
     //Teste 1 Intercalacao Basico. Arquivo p1.dat vazio deve criar saida.dat vazio.
-    //teste01();
+    teste01();
 
     //Teste 2 Intercalacao Basico. Duas particoes.
-    //teste02();
+    teste02();
 
     //Teste 3 Intercalacao Basico. Onze particoes.
-    //teste03();
+    teste03();
 
     //kevenny
-    //teste04();
+    teste04();
 
     //todo: OBS: QUANDO FOR RODAR O TESTE 5, COMENTAR TODOS OS TESTES ANTERIORES
     //teste05();
 
-    teste06();
+    //ignorar essa
+    //teste06();
 
     return 0;
 }
